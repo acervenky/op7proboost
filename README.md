@@ -1,4 +1,4 @@
-# **OnePlus 5 Stereo Mod**
+# **OnePlus 7 Pro Speaker Volume Boost Mod**
 
 ## Description
 
