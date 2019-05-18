@@ -1,0 +1,7 @@
+id=op7proboost
+name=OnePlus 7 Pro Speaker Volume Boost
+version=v1
+versionCode=1
+author=acervenky
+description=Increased gain of stereo speakers
+minMagisk=1500
