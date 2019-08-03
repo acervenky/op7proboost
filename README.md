@@ -9,3 +9,7 @@ Speaker Volume Boost Mod
 v1
 
 - Initial Release
+
+v2
+
+- Optimized Gains
