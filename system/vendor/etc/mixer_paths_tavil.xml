@@ -334,20 +334,20 @@
     <ctl name="SpkrLeft WSA PA Gain" value="G_0_DB" />
 
     <!-- Volume controls -->
-    <ctl name="LINEOUT1 Volume" value="13" />
-    <ctl name="LINEOUT2 Volume" value="13" />
-    <ctl name="HPHL Volume" value="20" />
-    <ctl name="HPHR Volume" value="20" />
-    <ctl name="EAR PA Gain" value="G_6_DB" />
+    <ctl name="LINEOUT1 Volume" value="15" />
+    <ctl name="LINEOUT2 Volume" value="15" />
+    <ctl name="HPHL Volume" value="25" />
+    <ctl name="HPHR Volume" value="25" />
+    <ctl name="EAR PA Gain" value="G_8_DB" />
     <ctl name="EAR SPKR PA Gain" value="G_DEFAULT" />
 
     <ctl name="RX0 Digital Volume" value="88" />
     <ctl name="RX1 Digital Volume" value="88" />
-    <ctl name="RX2 Digital Volume" value="84" />
-    <ctl name="RX3 Digital Volume" value="84" />
-    <ctl name="RX4 Digital Volume" value="84" />
-    <ctl name="RX5 Digital Volume" value="84" />
-    <ctl name="RX6 Digital Volume" value="84" />
+    <ctl name="RX2 Digital Volume" value="88" />
+    <ctl name="RX3 Digital Volume" value="88" />
+    <ctl name="RX4 Digital Volume" value="88" />
+    <ctl name="RX5 Digital Volume" value="88" />
+    <ctl name="RX6 Digital Volume" value="88" />
     <ctl name="RX7 Digital Volume" value="88" />
     <ctl name="ADC1 Volume" value="12" />
     <ctl name="ADC2 Volume" value="12" />
