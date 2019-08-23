@@ -2,7 +2,7 @@
 
 ## Description
 
-Speaker Volume Boost Mod
+Volume Boost Mod Now AML Compatible
 
 ## Changelog
 
@@ -12,4 +12,8 @@ v1
 
 v2
 
-- Optimized Gains
+- Optimized Gains For Headphones
+
+v3
+
+- Now AML Compatible
