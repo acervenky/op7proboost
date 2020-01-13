@@ -1,19 +1,6 @@
-# **OnePlus 7 Pro Speaker Volume Boost Mod**
+Changelog:
 
-## Description
-
-Volume Boost Mod Now AML Compatible
-
-## Changelog
-
-v1
-
-- Initial Release
-
-v2
-
-- Optimized Gains For Headphones
-
-v3
-
-- Now AML Compatible
+v1 - Initial Release
+v2 - Optimized gains for headphones
+v3 - AML Compatible
+v4 - New magisk template
